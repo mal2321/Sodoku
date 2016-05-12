@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+
+    <string name="action_setting">ตัวเลือก</string>
+
+    <string name="main_title">เกมซูโดกุ</string>
+    <string name="continue_label">เล่นเกมต่อจากเดิม</string>
+    <string name="new_game_label">เริ่มเกมใหม่</string>
+    <string name="about_label">เกี่ยวกับซูโดกุ</string>
+    <string name="exit_label">ออกจากเกม</string>
+
+    <string name="title_activity_about">About Sudoku</string>
+    <string name="about_text">\<b>ซูโดกุ (Sudoku)</b> เป็นเกมที่ผู้เล่นจะต้องเติมตัวเลข 1 ถึง 9 ลงในช่องต่างๆ เพื่อทำให้แต่ละแถว (แนวนอน), แต่ละคอลัมน์ (แนวตั้ง) และแต่ละตารางย่อยขนาด 3x3 มีตัวเลข 1 ถึง 9 ครบทุกตัว</string>
+
+    <string name="settings_title">Sudoku Settings</string>
+    <string name="music_title">ดนตรี (Music)</string>
+    <string name="music_summary">เล่นเพลงประกอบ</string>
+    <string name="hints_title">ตัวช่วย (Hints)</string>
+    <string name="hints_summary">แสดงตัวช่วยในขณะเล่นเกม</string>
+
+</resources>
